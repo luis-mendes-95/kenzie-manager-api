@@ -14,10 +14,14 @@ https://kenzie-manager-api.onrender.com
 ### Users (Usuários) 
 
 CADASTRAR USUÁRIO:
+baseUrl/register
 
-baseUrl/
+BODY:
+	{
+		"email": "useremail@mail.com",
+		"password": "senhaSENHA123@",
+		"name": "João Dono",
+		"age": 38		
+	}
 
-POST /login <br/>
-POST /signin
 
-Qualquer um desses 2 endpoints pode ser usado para realizar login com um dos usuários cadastrados na lista de "Users"

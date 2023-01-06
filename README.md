@@ -24,7 +24,8 @@ BODY:
 		"password": "senhaSENHA123@",
 		"name": "João Dono"	
 	}
-	
+	![image](https://user-images.githubusercontent.com/106193347/211063898-a558dcb9-d736-4f3d-a2b5-2eea4557ad83.png)
+
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 	
 ### LOGIN

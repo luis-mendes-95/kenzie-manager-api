@@ -19,13 +19,7 @@ https://kenzie-manager-api.onrender.com
 baseUrl/register
 +
 BODY:
-	{
-		"email": "useremail@mail.com",
-		"password": "senhaSENHA123@",
-		"name": "João Dono"	
-	}
-	![image](https://user-images.githubusercontent.com/106193347/211063898-a558dcb9-d736-4f3d-a2b5-2eea4557ad83.png)
-
+![image](https://user-images.githubusercontent.com/106193347/211064106-2a6060e3-1374-45ec-a62f-5382dc8658c3.png)
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 	
 ### LOGIN
